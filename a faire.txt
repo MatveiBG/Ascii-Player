@@ -1,5 +1,0 @@
-But final: video-> ascii avec son
-
-1)decomposer video en images
-2)convertir chaque image en ascii
-3)afficher tt les images avec le bon fps
